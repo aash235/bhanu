@@ -2,5 +2,6 @@ main()
 {
 fact();
 sum();
+hello();
 }
 
